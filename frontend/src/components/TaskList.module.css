@@ -1,0 +1,13 @@
+.listTitle {
+  font: var(--font-label);
+}
+
+.itemContainer {
+  flex-direction: column;
+  flex-grow: 1;
+  width: 100%;
+}
+
+.taskList {
+  margin-top: 3rem;
+}
