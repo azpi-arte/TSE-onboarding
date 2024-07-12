@@ -18,6 +18,10 @@
   overflow: hidden;
 }
 
+.checked {
+  color: var(--color-text-secondary);
+}
+
 .textContainer span {
   width: 100%;
   white-space: nowrap;
